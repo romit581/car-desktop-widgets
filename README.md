@@ -3,7 +3,7 @@
 > A minimalist motorsport-inspired Rainmeter setup designed around a clean
 > monochrome racing aesthetic with subtle red accents.
 
-<img width="1920" height="1080" alt="Screenshot 2026-09-19 173746" src="https://github.com/user-attachments/assets/f401b828-6139-487c-b8a7-32d89c5b65f8" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-28 174656" src="https://github.com/user-attachments/assets/c57cb3d2-d90d-4451-813c-5d154f12cf23" />
 
 
 ---
